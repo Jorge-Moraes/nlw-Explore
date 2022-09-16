@@ -7,8 +7,7 @@
 Projeto construido no evento Next Level Week da Rocketseat.
 
 
-[Clique aqui para acessar] (https://jorge-moraes.github.io/nlw-Explore/)
-
+[Clique aqui para acessar](https://jorge-moraes.github.io/nlw-Explore/)
 
 
 ## Tecnologias
